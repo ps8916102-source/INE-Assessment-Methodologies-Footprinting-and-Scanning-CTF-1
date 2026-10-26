@@ -1,4 +1,4 @@
-# Reconnaissance Skill Check — INE
+# Hands-on INE Assessment Methodologies: Footprinting and Scanning CTF 1 walkthrough
 
 > **Focus:** HTTP response headers, `robots.txt`, anonymous FTP access, and MySQL reconnaissance  
 > **Environment:** Authorized INE Skill Check lab  
